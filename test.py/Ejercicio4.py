@@ -1,6 +1,5 @@
 import serial
 import tkinter as tk
-
 # Configuración del puerto serial (asegúrate de que 'COM3' sea el puerto correcto para tu Arduino)
 arduino = serial.Serial('COM4', 9600)
 
