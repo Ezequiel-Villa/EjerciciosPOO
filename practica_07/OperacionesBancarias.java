@@ -1,6 +1,5 @@
 package practica_07;
 
-
 import java.util.Scanner;
 
 public class OperacionesBancarias { //En esta clase se muestra el menu de opciones disponibles a realizar
