@@ -1,0 +1,5 @@
+Nombre: 67
+Matrícula: 87
+Calificaciones: [97.0, 100.0, 78.0, 99.0, 87.0, 58.0, 67.0]
+Promedio: 83.71428571428571
+

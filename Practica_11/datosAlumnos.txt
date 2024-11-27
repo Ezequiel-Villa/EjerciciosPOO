@@ -1,0 +1,3 @@
+Alumno{nombre='Luis', matricula='87', calificaciones=[97.0, 100.0, 78.0, 99.0, 87.0, 58.0, 67.0], promedio=84}
+Alumno{nombre='jose', matricula='100', calificaciones=[78.0, 99.0, 87.0, 58.0, 67.0, 98.0, 78.0], promedio=81}
+Alumno{nombre='Maria', matricula='99', calificaciones=[87.0, 58.0, 67.0, 98.0, 78.0, 99.0, 69.0], promedio=79}
